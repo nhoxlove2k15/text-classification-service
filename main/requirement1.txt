@@ -1,0 +1,12 @@
+# fair seq, fast bpe
+fairseq==0.10.2
+fastBPE==0.1.0
+
+# transformer
+transformers==4.19.2
+# pyvi
+pyvi==0.1.1
+
+# pandas
+pandas==1.1.5
+

@@ -100,25 +100,25 @@ geographiclib==1.52
 geopy==1.17.0
 gin-config==0.5.0
 glob2==0.7
-google==2.0.3
-google-api-core==1.31.5
-google-api-python-client==1.12.11
-google-auth==1.35.0
-google-auth-httplib2==0.0.4
-google-auth-oauthlib==0.4.6
-google-cloud-bigquery==1.21.0
-google-cloud-bigquery-storage==1.1.1
-google-cloud-core==1.0.3
-google-cloud-datastore==1.8.0
-google-cloud-firestore==1.7.0
-google-cloud-language==1.2.0
-google-cloud-storage==1.18.1
-google-cloud-translate==1.5.0
-google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz
-google-pasta==0.2.0
-google-resumable-media==0.4.1
-googleapis-common-protos==1.56.1
-googledrivedownloader==0.4
+# google==2.0.3
+# google-api-core==1.31.5
+# google-api-python-client==1.12.11
+# google-auth==1.35.0
+# google-auth-httplib2==0.0.4
+# google-auth-oauthlib==0.4.6
+# google-cloud-bigquery==1.21.0
+# google-cloud-bigquery-storage==1.1.1
+# google-cloud-core==1.0.3
+# google-cloud-datastore==1.8.0
+# google-cloud-firestore==1.7.0
+# google-cloud-language==1.2.0
+# google-cloud-storage==1.18.1
+# google-cloud-translate==1.5.0
+# google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz
+# google-pasta==0.2.0
+# google-resumable-media==0.4.1
+# googleapis-common-protos==1.56.1
+# googledrivedownloader==0.4
 graphviz==0.10.1
 greenlet==1.1.2
 grpcio==1.46.1
@@ -159,7 +159,7 @@ ipython-sql==0.3.9
 ipywidgets==7.7.0
 itsdangerous==1.1.0
 jax==0.3.8
-jaxlib @ https://storage.googleapis.com/jax-releases/cuda11/jaxlib-0.3.7+cuda11.cudnn805-cp37-none-manylinux2014_x86_64.whl
+# jaxlib @ https://storage.googleapis.com/jax-releases/cuda11/jaxlib-0.3.7+cuda11.cudnn805-cp37-none-manylinux2014_x86_64.whl
 jedi==0.18.1
 jieba==0.42.1
 Jinja2==2.11.3
@@ -372,11 +372,11 @@ tinycss2==1.1.1
 tokenizers==0.12.1
 tomli==2.0.1
 toolz==0.11.2
-torch @ https://download.pytorch.org/whl/cu113/torch-1.11.0%2Bcu113-cp37-cp37m-linux_x86_64.whl
-torchaudio @ https://download.pytorch.org/whl/cu113/torchaudio-0.11.0%2Bcu113-cp37-cp37m-linux_x86_64.whl
+# torch @ https://download.pytorch.org/whl/cu113/torch-1.11.0%2Bcu113-cp37-cp37m-linux_x86_64.whl
+# torchaudio @ https://download.pytorch.org/whl/cu113/torchaudio-0.11.0%2Bcu113-cp37-cp37m-linux_x86_64.whl
 torchsummary==1.5.1
 torchtext==0.12.0
-torchvision @ https://download.pytorch.org/whl/cu113/torchvision-0.12.0%2Bcu113-cp37-cp37m-linux_x86_64.whl
+# torchvision @ https://download.pytorch.org/whl/cu113/torchvision-0.12.0%2Bcu113-cp37-cp37m-linux_x86_64.whl
 tornado==5.1.1
 tqdm==4.64.0
 traitlets==5.1.1
